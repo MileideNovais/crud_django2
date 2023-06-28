@@ -1,1 +1,1 @@
-# crud_django2
+# crud_django2 adaptado
